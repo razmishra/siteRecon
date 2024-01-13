@@ -1,3 +1,4 @@
+## Project deployed link https://siterecon-rajneesh.netlify.app/
 # How to run
 1. Clone this repo https://github.com/razmishra/siteRecon.git
 2. Run ```npm i``` or ```npm install```
